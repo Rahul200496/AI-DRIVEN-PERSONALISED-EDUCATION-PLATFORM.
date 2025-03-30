@@ -1,0 +1,106 @@
+AI-Driven Personalized Education Platform
+
+📌 Project Overview
+
+The AI-Driven Personalized Education Platform is designed to enhance learning experiences using AI. It provides customized learning plans, course recommendations, real-time chatbot assistance, and seamless WhatsApp alerts for learners.
+
+🎯 Features
+
+Personalized Learning Plans: AI-generated learning paths based on user preferences.
+
+Course Catalog: Various courses covering AI, Machine Learning, Data Science, and Python.
+
+AI Chatbot: 24/7 assistance to answer queries and guide users.
+
+WhatsApp Alerts: Instant notifications and course details sent via WhatsApp.
+
+User Progress Tracking: Monitors learning achievements.
+
+Community Forum: A space for learners to interact and share knowledge.
+
+🛠️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript (with FontAwesome for icons)
+
+Backend: Python Flask
+
+Database: SQLite / PostgreSQL (optional)
+
+API Integration: WhatsApp API (for alerts)
+
+🚀 Installation & Setup
+
+Prerequisites
+
+Ensure you have the following installed:
+
+Python (>=3.8)
+
+Flask
+
+SQLite or PostgreSQL (for database)
+
+Steps to Run Locally
+
+Clone the repository:
+
+git clone https://github.com/your-username/ai-edu-platform.git
+cd ai-edu-platform
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the Flask server:
+
+python app.py
+
+Open your browser and visit:
+
+http://127.0.0.1:5000/
+
+📡 Deployment
+
+You can deploy this project using Heroku, AWS, or Vercel.
+
+📄 API Endpoints
+
+/ - Home Page
+
+/courses - Courses List
+
+/personalized_plan - AI-based Personalized Learning Plan
+
+/chatbot - AI Chatbot
+
+/whatsapp-alert - Send learning plans via WhatsApp
+
+💡 Future Enhancements
+
+AI-powered progress evaluation
+
+Voice-based chatbot interaction
+
+Multi-language support
+
+Mobile app version
+
+🤝 Contributing
+
+We welcome contributions! To contribute:
+
+Fork the repository.
+
+Create a new branch (feature-branch).
+
+Make your changes and commit them.
+
+Push to your fork and submit a PR.
+
+📝 License
+
+This project is licensed under the MIT License.
+
+📞 Contact:8073015545(Rahul)
+
+For any queries or contributions, reach out at: rahulgp200496@gmail.com
